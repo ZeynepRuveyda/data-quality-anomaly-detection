@@ -1,0 +1,42 @@
+# Data Quality & Anomaly Detection in Mobility Systems
+# PhD Research Project - COSYS/GRETTIA, Université Gustave Eiffel
+
+# Core data science packages
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine learning packages
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional visualization packages
+plotly>=5.0.0
+bokeh>=2.3.0
+
+# Statistical analysis
+statsmodels>=0.13.0
+
+# Data validation
+great-expectations>=0.15.0
+
+# Performance monitoring
+memory-profiler>=0.60.0
+
+# Code quality
+black>=22.0.0
+flake8>=4.0.0
+pylint>=2.12.0
+
+# Testing
+pytest>=6.2.0
+pytest-cov>=3.0.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
