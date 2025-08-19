@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍🎓 Author
 
-**PhD Candidate** - COSYS/GRETTIA Research Group  
+**Candidate of PhD position** - COSYS/GRETTIA Research Group  
 **Institution** - Université Gustave Eiffel  
 **Research Area** - Data Quality, Anomaly Detection, Mobility Systems  
 
