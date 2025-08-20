@@ -21,18 +21,6 @@ This repository contains a comprehensive analysis of data quality and anomaly de
 │   ├── data_quality_anomaly_detection_advanced.ipynb  # Jupyter notebook (EN/FR)
 │   └── anomalies_detected.csv            # Mobility dataset
 │
-├── 🎨 Presentation Materials
-│   ├── slide1_title.png                  # Title slide
-│   ├── slide2_research.png               # Research overview
-│   ├── slide3_methods.png                # Method comparison
-│   ├── slide4_performance.png            # Performance dashboard
-│   ├── slide5_results.png                # Results summary
-│   ├── slide6_roadmap.png                # Future roadmap
-│   ├── slide7_alignment.png              # PhD requirements alignment
-│   ├── slide8_portfolio.png              # Visualization portfolio
-│   ├── POWERPOINT_PRESENTATION_CONTENT.md # Detailed slide content
-│   └── POWERPOINT_QUICK_START.md        # Quick start guide
-│
 ├── 📚 Documentation
 │   ├── README.md                         # This file
 │   ├── guidance_data_quality_anomaly_detection_advanced.md  # Comprehensive guidance
@@ -151,14 +139,6 @@ The analysis demonstrates:
 - Smart city applications
 - Transportation system optimization
 - IoT device integration
-
-## 📱 Presentation Materials
-
-This repository includes complete PowerPoint presentation materials:
-- 8 high-quality slide images
-- Detailed content guides
-- Professional design templates
-- Ready-to-use presentation structure
 
 ## 🤝 Contributing
 
