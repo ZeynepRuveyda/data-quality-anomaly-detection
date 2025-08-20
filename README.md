@@ -16,9 +16,9 @@ This repository contains a comprehensive analysis of data quality and anomaly de
 
 ```
 ├── 📊 Analysis Files
-│   ├── cifre.py                          # Original analysis script
+│   ├── dummy_data_creation.py            # Synthetic data generation script
 │   ├── analysis_script.py                # Complete analysis cells
-│   ├── data_quality_anomaly_detection.ipynb  # Jupyter notebook
+│   ├── data_quality_anomaly_detection_advanced.ipynb  # Jupyter notebook (EN/FR)
 │   └── anomalies_detected.csv            # Mobility dataset
 │
 ├── 🎨 Presentation Materials
@@ -35,6 +35,7 @@ This repository contains a comprehensive analysis of data quality and anomaly de
 │
 ├── 📚 Documentation
 │   ├── README.md                         # This file
+│   ├── guidance_data_quality_anomaly_detection_advanced.md  # Comprehensive guidance
 │   └── PREZI_PRESENTATION_GUIDE.md      # Alternative presentation guide
 │
 └── 🔧 Environment
@@ -51,7 +52,7 @@ This repository contains a comprehensive analysis of data quality and anomaly de
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/data-quality-anomaly-detection.git
+git clone https://github.com/ZeynepRuveyda/data-quality-anomaly-detection.git
 cd data-quality-anomaly-detection
 ```
 
@@ -82,13 +83,13 @@ python analysis_script.py
 ### Option 2: Use Jupyter Notebook
 ```bash
 source venv/bin/activate
-jupyter notebook data_quality_anomaly_detection.ipynb
+jupyter notebook data_quality_anomaly_detection_advanced.ipynb
 ```
 
-### Option 3: Run Original Script
+### Option 3: Run Data Generator
 ```bash
 source venv/bin/activate
-python cifre.py
+python dummy_data_creation.py
 ```
 
 ## 🔍 Analysis Components
