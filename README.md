@@ -154,19 +154,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Institution** - Université Gustave Eiffel  
 **Research Area** - Data Quality, Anomaly Detection, Mobility Systems  
 
-## 📞 Contact
-
-For questions or collaboration opportunities, please contact:
-- **Email**: [your.email@univ-eiffel.fr]
-- **Research Group**: COSYS/GRETTIA
-- **Institution**: Université Gustave Eiffel
-
----
-
-## 🎉 Acknowledgments
-
-Special thanks to the COSYS/GRETTIA research group and Université Gustave Eiffel for supporting this research project.
-
----
-
-*This repository represents a comprehensive approach to data quality analysis and anomaly detection in mobility systems, demonstrating advanced machine learning techniques and practical applications in transportation research.*
